@@ -9,9 +9,13 @@ ____
 Currently working with __Ruby on Rails__ and practicing a lot of __Elixir__ and __Go__ 
 
 Brushing up my data structures and algorithms skills regularly 🔭
+
+Studying Data Science 🌱
+
 ____
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=dark)](https://github.com/fernandesleticia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesleticia&exclude_repo=lucrei-web,culture-app,starwars-opengl,mars-exploration,monday&langs_count=8&hide=css,html,dockerfile&layout=compact)](https://github.com/fernandesleticia/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=dark&hide_title=true)](https://github.com/fernandesleticia/github-readme-stats)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernandesleticia/)
 
