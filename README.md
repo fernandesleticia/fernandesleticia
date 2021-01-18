@@ -1,9 +1,9 @@
 ### Letícia Fernandes
 
-> - Software Developer :blue_heart:
-> - Computer Science, UFC :mortar_board:
-> - Brazil :brazil:
-> - Cupcake lover :cupcake:
+- Software Developer :blue_heart:
+- Computer Science, UFC :mortar_board:
+- Brazil :brazil:
+- Cupcake lover :cupcake:
 ____
 
 Currently working with __Ruby on Rails__ and practicing a lot of __Elixir__ and __Go__ 
