@@ -17,7 +17,8 @@ ____
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesleticia&exclude_repo=lucrei-web,culture-app,starwars-opengl,mars-exploration,monday&langs_count=8&hide=css,html,dockerfile&layout=compact)](https://github.com/fernandesleticia/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=dark&hide_title=true)](https://github.com/fernandesleticia/github-readme-stats)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernandesleticia/)
+[<img src="https://img.shields.io/badge/-linkedin-blue" />](https://www.linkedin.com/in/fernandesleticia/)
+[<img src="https://img.shields.io/badge/-More%20about%20me-ff69b4" />](https://fernandesleticia.github.io/)
 
 <!--
 **fernandesleticia/fernandesleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
