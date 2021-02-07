@@ -1,5 +1,8 @@
 ### Letícia Fernandes
 
+[<img src="https://img.shields.io/badge/-linkedin-blue" />](https://www.linkedin.com/in/fernandesleticia/)
+[<img src="https://img.shields.io/badge/-More%20about%20me-ff69b4" />](https://fernandesleticia.github.io/)
+
 - Software Developer :blue_heart:
 - Computer Science, UFC :mortar_board:
 - Brazil :brazil:
@@ -16,20 +19,3 @@ ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesleticia&exclude_repo=lucrei-web,culture-app,starwars-opengl,mars-exploration,monday&langs_count=8&hide=css,html,dockerfile&layout=compact)](https://github.com/fernandesleticia/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=dark&hide_title=true)](https://github.com/fernandesleticia/github-readme-stats)
-
-[<img src="https://img.shields.io/badge/-linkedin-blue" />](https://www.linkedin.com/in/fernandesleticia/)
-[<img src="https://img.shields.io/badge/-More%20about%20me-ff69b4" />](https://fernandesleticia.github.io/)
-
-<!--
-**fernandesleticia/fernandesleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
