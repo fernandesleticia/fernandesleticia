@@ -18,4 +18,4 @@ Studying Data Science 🌱
 ____
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesleticia&exclude_repo=lucrei-web,culture-app,starwars-opengl,mars-exploration,monday&langs_count=8&hide=css,html,dockerfile&layout=compact)](https://github.com/fernandesleticia/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=dark&hide_title=true)](https://github.com/fernandesleticia/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandesleticia&show_icons=true&theme=radical&hide_title=true)](https://github.com/fernandesleticia/github-readme-stats)
